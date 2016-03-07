@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MicroFingerApplication {
 
 	public static void main(String[] args) {
+		String a="test";
 		SpringApplication.run(MicroFingerApplication.class, args);
 	}
 }
